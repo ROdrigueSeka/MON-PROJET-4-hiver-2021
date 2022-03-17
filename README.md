@@ -1,0 +1,2 @@
+# MON-PROJET-4-hiver-2021
+sous la supervision du Professeur : Abdul Wahab Omar, dans le cadre académiques du cours INF4163 on été  Initier aux techniques de bases de données, familiariser avec les principaux modèles d'organisation des données et leur implantation et vues  les principales méthodes de conception et de gestion des données dans des systèmes relationnels. on a réalisé une base de donnée pour gérer un hôtel 
